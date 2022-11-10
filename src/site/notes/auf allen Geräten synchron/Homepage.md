@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/auf-allen-geraeten-synchron/homepage/","tags":"gardenEntry"}
+{"dg-publish":true,"dg-permalink":"homepage","permalink":"/homepage/","tags":"gardenEntry","dgHomeLink":false,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":false,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
 
